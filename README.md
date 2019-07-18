@@ -6,6 +6,8 @@
 4. Verify if custom link is not already present in db
 5. Site visit counts 
 
+[!alt]('https://raw.githubusercontent.com/Mr-Parth/Custom-URL-Shortener/master/gif/1.gif')
+
 
 
 
